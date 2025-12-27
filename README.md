@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @QAIM-ABBAS<br>👀 I’m interested in Cyber Security<br>🌱 I’m currently working as Python Backend Developer<br>⚡ And also have Frontend knowledge in JS/TS/React/Tailwind CSS<br>💞️ I’m looking to collaborate on AI/Web Development projects<br>📫 How to reach me qaimabbas4491@gmail.com
+👋 Hi there!, I’m @QAIM-ABBAS<br>👀 I’m interested in Cyber Security<br>🌱 I’m currently working as Python Backend Developer<br>⚡ And also have Frontend knowledge in JS/TS/React/Tailwind CSS<br>💞️ I’m looking to collaborate on AI/Web Development projects<br>📫 How to reach me qaimabbas4491@gmail.com
 
 
 ## 🌐 Socials:
